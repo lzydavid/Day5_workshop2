@@ -1,3 +1,5 @@
+## git commands
+
 1. git init (initalise a local repo)
 
 2. git add * (add all file to be staged to commit to local repo)
